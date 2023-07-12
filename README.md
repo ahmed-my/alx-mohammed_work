@@ -1,8 +1,8 @@
 #header
-# H1 **learnging about the use of header**
-## H2
-### H3
-#### H4
+# **learning about the use of header in bold**
+## *This is becoming interesting in italics*
+### __MAKE THIS BOLD__
+#### **In bold and _in italic_**
 ##### H5
 ###### H6
 
